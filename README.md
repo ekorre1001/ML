@@ -1,3 +1,3 @@
 # Machine-Learning
 
-Labs from the machine learning course
+Labs from the machine learning courses
